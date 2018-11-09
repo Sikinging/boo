@@ -8,5 +8,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>common</module>
+  	<module>just-test</module>
   </modules>
 </project>
